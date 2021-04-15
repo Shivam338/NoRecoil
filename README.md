@@ -1,14 +1,18 @@
-# NoRecoil
-CS:GO No Recoil AHK Script for some Weapons. 
-So, to use this Script Download AutoHotKey and just Run the script.
-The following are the Key Bindings for the script :
--> "F4" for AK
--> "F6" for M4A1
--> "F7" for M4A4
--> "F8" for Famas
--> "F9" for Galil
--> "F12" for UMP
--> "Home" for AUG
--> "End" for SG 
--> "F11" to 'Pause the Script'
--> "F10" to 'Exit/Terminate the Script'
+## NoRecoil
+
+CS:GO No Recoil AHK Script for some Weapons. <br/>
+So, to use this Script Download AutoHotKey and just Run the script.<br/
+
+## How to Use
+
+The following are the Key Bindings for the script : <br/>
+1. "F4" for AK
+2. "F6" for M4A1
+3. "F7" for M4A4
+4. "F8" for Famas
+5. "F9" for Galil
+6. "F12" for UMP
+7. "Home" for AUG
+8. "End" for SG 
+9. "F11" to 'Pause the Script'
+10. "F10" to 'Exit/Terminate the Script'
