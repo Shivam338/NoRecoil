@@ -5,6 +5,7 @@ So, to use this Script Download AutoHotKey and just Run the script.<br/
 
 ## How to Use
 
+# Install AutoHotKey and run the script
 The following are the Key Bindings for the script : <br/>
 1. "F4" for AK
 2. "F6" for M4A1
