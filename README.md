@@ -1,7 +1,7 @@
 ## NoRecoil
 
 CS:GO No Recoil AHK Script for some Weapons. <br/>
-So, to use this Script Download AutoHotKey and just Run the script.<br/
+So, to use this Script Download AutoHotKey and just Run the script.<br/>
 
 ## How to Use
 
